@@ -1,0 +1,116 @@
+---
+title: "Welcome to R-Ladies St. Louis"
+author: "Introduction to R"
+date: "March 6, 2019"
+output:
+  xaringan::moon_reader:
+    css: ["default", "rladies", "rladies-fonts"]
+    nature: 
+        highlightLines: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+# What is R-Ladies?
+
+- R-Ladies is a world-wide organization with the mission of promoting **gender diversity in the R community**  
+
+- Started in San Francisco in 2012  
+
+- Currently has Meetup groups in **138 cities in 44 countries for a total of 39,676** members globally  
+<center>
+![](https://rladies.org/wp-content/uploads/2018/02/R-Ladies.png)
+
+---
+
+# R-Ladies St. Louis 
+
+* Started in September 2017 by Jenine Harris and Chelsea West 
+
+<img src="https://github.com/rladiesstl/photos/blob/master/jenine-chelsea-92817.gif?raw=true" width="400" />
+
+---
+# R-Ladies St. Louis Past Meetups
+
+- Meet & greet with Dr. Bobbi Carothers, Dr. Angelique Zeringue, Alexandra Morshed, Mary Painter, Rebecca Willison, & Lorinette Worth 
+
+- RCPP Introduction with Erin Rossiter 
+
+- Introduction to R with Shelly Cooper 
+
+- Intro Part Deux with Mary Painter & Christina Garcia 
+
+- Reproducible research with R with Dr. Bobbi Carothers 
+
+- Plotting something great: Making graphs in R with Shelly Cooper 
+
+- Get going with GitHub with Laura Brugger 
+
+<img src="https://github.com/rladiesstl/photos/blob/master/bobbi-cropped.jpg?raw=true" width="1000" />
+    
+
+---
+
+
+# R-Ladies St. Louis current and past sponsors
+
+<center>
+<img src="https://neteffects.com/wp-content/themes/gotheme-twenty-fourteen/images/netEffects-logo.png" width = "200"/>&nbsp;&nbsp;&nbsp;
+<img src = "https://c.s-microsoft.com/en-us/CMSImages/Microsoft-logo_rgb_gray.jpg?version=1BC84E2E-14C4-6323-7909-D43A63EDAA93" width = "150"/>&nbsp;&nbsp;&nbsp;<img src="http://bradfordandgalt.com/wp-content/themes/bradford/images/bradford-galt-logo.gif" width = "100"/> &nbsp;&nbsp;&nbsp;  <img src="https://www.datacamp.com/datacamp.png" width = "125"/> &nbsp;&nbsp;&nbsp;<img src = "https://brownschool.wustl.edu/News/PublishingImages/2017-News-Images/BrownSchoolgGRAYatWashingtonUniversity_2line.jpg" width = "100">
+
+<img src = "https://us.sagepub.com/sites/all/themes/sage_corp/logo.svg"/>  &nbsp;&nbsp;&nbsp;&nbsp;   <img src = "https://www.rstudio.com/wp-content/uploads/2016/09/RStudio-Logo-Blue-Gray-125.png"/>&nbsp;&nbsp;&nbsp;&nbsp;    <img src = "https://itsalocke.com/img/LockeDataTextNew.svg" width = "100"/> &nbsp;&nbsp;&nbsp;&nbsp;    <img src = "https://github.githubassets.com/images/modules/logos_page/Octocat.png" width = "100"/> &nbsp;&nbsp;&nbsp;&nbsp;    <img src = "SLUCOR_Royal.png" width = "100"/> 
+
+<img src="https://humorside.com/wp-content/uploads/2017/12/thank-you-meme-02-1.jpg" width="250" />
+
+---
+# Remaining meetups for 2018-2019 
+
+- (April 18) <a href="https://www.meetup.com/R-Ladies-St-Louis/events/254505655/">Mapping St. Louis health and social data with R</a> with Dr. Chris Prener
+
+<center><br>
+<img src="https://github.com/rladiesstl/photos/blob/master/tell-friends.jpg?raw=true" width="300" />
+
+---
+
+# Today 
+
+- Xiaoyan Wang is here to Introduce you to R 
+<center><br>
+<img src = "xiaoyan-poster.JPG" width = "400"/> 
+
+- Food and space generously provided by net**effects** (host: Stephanie Grimshaw) and **Microsoft** (hosts: Amy Hulse & Todd Kitta)<br>
+<img src="https://neteffects.com/wp-content/themes/gotheme-twenty-fourteen/images/netEffects-logo.png" width = "200"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://c.s-microsoft.com/en-us/CMSImages/Microsoft-logo_rgb_gray.jpg?version=1BC84E2E-14C4-6323-7909-D43A63EDAA93" width = "200" />
+
+---
+
+# Want to learn more or get involved?
+
+- Visit **rladies.org** to learn about the mission and global work of R-Ladies 
+
+- Connect with R-Ladies St. Louis 
+    + Email us at <a href = "mailto:rladiesstl@gmail.com">rladiesstl@gmail.com</a> 
+    + Follow us on Twitter <a href="https://twitter.com/RLadiesSTL">@rladiesstl</a>
+    + Connect with us on <a href="https://www.meetup.com/R-Ladies-St-Louis/">Meetup</a>
+    
+<img src = "https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoOnly.png?raw=true" width = 250/><img src = "https://media.giphy.com/media/3o7abBphHJngINCHio/giphy.gif" width = "300" align = "right"/>
+
+---
+
+# R-Ladies STL Meetup #8: Introduction to R with Xiaoyan Wang
+
+- Wifi 
+    + MSGUEST 
+    + event attendee code: msevent933xh 
+
+- Things to do before we start:
+    +	Install R 
+    +	Install RStudio
+    +	Download the materials at https://github.com/rladiesstl/meetup.mar6.2019 
+
+
+
+
+
+
